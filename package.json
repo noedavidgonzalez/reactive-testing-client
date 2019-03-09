@@ -19,7 +19,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "build:gcp": "react-scripts build && node server.js"
+    "build:gcp": "react-scripts build && node server.js",
+    "now-build": "react-scripts build"
   },
   "eslintConfig": {
     "extends": "react-app"
